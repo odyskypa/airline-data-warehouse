@@ -1,0 +1,251 @@
+[ {
+  "baseItem" : {
+    "id" : "_3ysQYGp2Ee26294dRiAHOg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_9ZS0cF6tEe2iWPds2su8MA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PYOkwF7mEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_amO08GJtEe29KKy-X6xHzg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ynD5gF90Ee2hp9oB28mj-w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA - metadata-aircraft-manufacturer-lookup",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_amO08GJtEe29KKy-X6xHzg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_7I-3EGQxEe2JMajRsPYSew",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_PYOkwF7mEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ynD5gF90Ee2hp9oB28mj-w",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8P_y0F7pEe2Pnqu1ttuMjw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DW_TRAINING:_8n_SwGpzEe26294dRiAHOg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DW_TRAINING:_GOoz8HAGEe2SKMTn9CF8zw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DW_TRAINING:_LRvAwHAOEe2SKMTn9CF8zw",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8n_SwGpzEe26294dRiAHOg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_9ZS0cF6tEe2iWPds2su8MA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PYOkwF7mEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ynD5gF90Ee2hp9oB28mj-w",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_GOoz8HAGEe2SKMTn9CF8zw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_9ZS0cF6tEe2iWPds2su8MA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PYOkwF7mEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_amO08GJtEe29KKy-X6xHzg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ynD5gF90Ee2hp9oB28mj-w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA - metadata-aircraft-manufacturer-lookup",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_amO08GJtEe29KKy-X6xHzg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JjWyQGy_Ee28YpEj25F5oQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PYOkwF7mEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_amO08GJtEe29KKy-X6xHzg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ynD5gF90Ee2hp9oB28mj-w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA - metadata-aircraft-manufacturer-lookup",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_amO08GJtEe29KKy-X6xHzg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_LRvAwHAOEe2SKMTn9CF8zw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_9ZS0cF6tEe2iWPds2su8MA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PYOkwF7mEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ynD5gF90Ee2hp9oB28mj-w",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_fEJAIGJsEe29KKy-X6xHzg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_9ZS0cF6tEe2iWPds2su8MA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA - metadata-aircraft-manufacturer-lookup",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_q3V2MGskEe2oSvcfkmQRjQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_9ZS0cF6tEe2iWPds2su8MA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PYOkwF7mEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_amO08GJtEe29KKy-X6xHzg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ynD5gF90Ee2hp9oB28mj-w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA - metadata-aircraft-manufacturer-lookup",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_amO08GJtEe29KKy-X6xHzg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_vgypAF6sEe2iWPds2su8MA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_9ZS0cF6tEe2iWPds2su8MA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PYOkwF7mEe2WF84z_VxbDA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AID8cF7dEe2WF84z_VxbDA - metadata-aircraft-manufacturer-lookup",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

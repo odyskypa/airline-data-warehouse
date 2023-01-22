@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_O-6f4F91Ee2hp9oB28mj-w" name="AMOS" id="_ynD5gF90Ee2hp9oB28mj-w" label="AMOS" dataPackage="_PAd_EF91Ee2hp9oB28mj-w" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://postgresfib.fib.upc.edu:6433/AMOS?" dbVersionString="V9_X" Port="6433" Username="odysseas.kyparissis" Password="enc:system.encryption.key.v1:K3vu4NCwYPRIDDazGskoSFUJnkODLGVYB28bsty2TngTI7hG" ServerName="postgresfib.fib.upc.edu" DatasourceName="" FileFieldName="" SID="AMOS" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public">
+    <taggedValue xmi:id="_O-6f4V91Ee2hp9oB28mj-w" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_O_UIgF91Ee2hp9oB28mj-w" tag="package filter" value=""/>
+    <taggedValue xmi:id="_O_UvkF91Ee2hp9oB28mj-w" tag="Status" value=""/>
+    <taggedValue xmi:id="_O_UvkV91Ee2hp9oB28mj-w" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_O_Uvkl91Ee2hp9oB28mj-w" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_O_Uvk191Ee2hp9oB28mj-w" tag="Description" value=""/>
+    <taggedValue xmi:id="_O_UvlF91Ee2hp9oB28mj-w" tag="Author" value=""/>
+    <taggedValue xmi:id="_O_UvlV91Ee2hp9oB28mj-w" tag="otherParameter"/>
+    <taggedValue xmi:id="_O_1s8F91Ee2hp9oB28mj-w" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_O_1s8V91Ee2hp9oB28mj-w" tag="DB ProductVersion" value="13.2"/>
+    <taggedValue xmi:id="_O_1s8l91Ee2hp9oB28mj-w" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <queries xmi:id="_UJzpcGTxEe2xqbFRvRwzog">
+      <query xmi:id="_UJ0QgGTxEe2xqbFRvRwzog" id="_UJzpcWTxEe2xqbFRvRwzog" comment="Selecting data from TechnicalLogBookOrders for LogbookReporting fact table" label="TechnicalLogBookOrders" value="SELECT reporteurID, reporteurClass, aircraftRegistration, executionDate, workOrderID, MEL&#xD;&#xA;FROM TechnicalLogBookOrders&#xD;&#xA;"/>
+    </queries>
+    <parameters xmi:id="_O-6f4l91Ee2hp9oB28mj-w" key="CONN_PARA_KEY_USERNAME" value="odysseas.kyparissis"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_PAd_EF91Ee2hp9oB28mj-w" name="AMOS" dataManager="_O-6f4F91Ee2hp9oB28mj-w">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_PAd_EV91Ee2hp9oB28mj-w" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_pJRbYF6uEe2iWPds2su8MA" name="AIMS" id="_9ZS0cF6tEe2iWPds2su8MA" label="AIMS" dataPackage="_pStEMF6uEe2iWPds2su8MA" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://postgresfib.fib.upc.edu:6433/AIMS?" dbVersionString="V9_X" Port="6433" Username="odysseas.kyparissis" Password="enc:system.encryption.key.v1:/wLin4utl7py4ljkjWkqxCqCZfKE9sjUJaE8kfvwD4VERWPl" ServerName="postgresfib.fib.upc.edu" DatasourceName="" FileFieldName="" SID="AIMS" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public">
+    <taggedValue xmi:id="_pJSCcF6uEe2iWPds2su8MA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_pJfd0F6uEe2iWPds2su8MA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_pJkWUF6uEe2iWPds2su8MA" tag="Status" value=""/>
+    <taggedValue xmi:id="_pJkWUV6uEe2iWPds2su8MA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_pJkWUl6uEe2iWPds2su8MA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_pJkWU16uEe2iWPds2su8MA" tag="Description" value=""/>
+    <taggedValue xmi:id="_pJkWVF6uEe2iWPds2su8MA" tag="Author" value=""/>
+    <taggedValue xmi:id="_pJkWVV6uEe2iWPds2su8MA" tag="otherParameter"/>
+    <taggedValue xmi:id="_pOM-sF6uEe2iWPds2su8MA" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_pOM-sV6uEe2iWPds2su8MA" tag="DB ProductVersion" value="13.2"/>
+    <taggedValue xmi:id="_pOM-sl6uEe2iWPds2su8MA" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <queries xmi:id="_QtfXEF6wEe2iWPds2su8MA">
+      <query xmi:id="_QtfXEl6wEe2iWPds2su8MA" id="_QtfXEV6wEe2iWPds2su8MA" label="dw-training-kpi1-sql" value="select aircraftregistration, actualarrival, actualdeparture, passengers,&#xD;&#xA;&#x9;&#x9;&#x9;extract(year from actualDeparture) as year&#xD;&#xA;from Flights&#xD;&#xA;where cancelled = false"/>
+      <query xmi:id="_Uf3nEV6xEe2iWPds2su8MA" properties="deleted&#xA;&#xA;true&#xA;&#xA;" id="_Uf3nEF6xEe2iWPds2su8MA" label="AIMS(AIMS).sql" value="select aircraftregistration, actualarrival, actualdeparture, passengers,&#xD;&#xA;&#x9;&#x9;&#x9;extract(year from actualDeparture) as year&#xD;&#xA;from Flights&#xD;&#xA;where cancelled = false"/>
+    </queries>
+    <parameters xmi:id="_pJSCcV6uEe2iWPds2su8MA" key="CONN_PARA_KEY_USERNAME" value="odysseas.kyparissis"/>
+    <parameters xmi:id="_unYX4F90Ee2hp9oB28mj-w" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_pStEMF6uEe2iWPds2su8MA" name="AIMS" dataManager="_pJRbYF6uEe2iWPds2su8MA">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_pStrQF6uEe2iWPds2su8MA" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

@@ -1,0 +1,38 @@
+<project name="DW-D1" id="816fb698-34ea-4b01-a6d4-792ee5ac9460" toolversion="3.4.8.0">
+  <datawarehouse>
+    <datamarts>
+      <datamart name="Datamart" id="709d1ddf-e8b2-4dc7-97ad-ab7d0a3fb230">
+        <factschemas>
+          <factschema id="0700f12f-1f81-449b-9c6d-bbc61e863a95" />
+          <factschema id="1a1a5468-43aa-45b4-a7a0-04cefa080529" />
+          <factschema id="fd725e0e-77e4-419b-a646-1a4028d1a975" />
+        </factschemas>
+      </datamart>
+    </datamarts>
+  </datawarehouse>
+  <conformedHierarchies>
+    <conformedHierarchy id="03e774d7-6150-43cb-966e-30a4e855fb29" />
+    <conformedHierarchy id="f0763e72-0fb8-4203-9ca4-3085bb2befb9" />
+    <conformedHierarchy id="a3ae78db-1cd9-449e-a56a-309b4ecfdcbc" />
+    <conformedHierarchy id="6612d2e8-61fe-4f65-93b9-a614df3639f8" />
+  </conformedHierarchies>
+  <areas />
+  <customProperties>
+    <attributes />
+    <measures />
+    <facts />
+  </customProperties>
+  <linkedProperties />
+  <projectOptions>
+    <logicModelingProfile name="starschema" isEditable="false" />
+    <logicModelingNamePrefixes DimensionTableNamePrefix="DT_" FactTableNamePrefix="FT_" BridgeTableNamePrefix="BT_" NavigationTableNamePrefix="NAV_" JunkTableNamePrefix="JT_" PrimaryKeyNamePrefix="PK_" ForeignKeyNamePrefix="FK_" TableIdNamePrefix="ID_" ConformedDimensionViewNamePrefix="DTV_" TemporalScenarioRollbackFromFieldName="FROM" TemporalScenarioRollbackToFieldName="TO" TemporalScenarioRollbackMasterFieldName="MASTER" />
+    <logicalModelingDefaultTypes>
+      <attributes name="VARCHAR" length="255" scale="-1" precision="-1" />
+      <measures name="DECIMAL" length="-1" scale="3" precision="18" />
+      <surrogates name="INT" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackFromType name="DATE" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackToType name="DATE" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackMasterType name="INT" length="-1" scale="-1" precision="-1" />
+    </logicalModelingDefaultTypes>
+  </projectOptions>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_AIKqIF7dEe2WF84z_VxbDA" name="Aircraft-manufacturer-lookup" dataPackage="_AIKqIV7dEe2WF84z_VxbDA" Server="Localhost 127.0.0.1" FilePath="C:/Users/odyky/Desktop/UPC/1st Semester/DW-MDS/Project/D1/Project Data/aircraft-manufaturerinfo-lookup.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_AIKqIV7dEe2WF84z_VxbDA" name="default" dataManager="_AIKqIF7dEe2WF84z_VxbDA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_AIKqIl7dEe2WF84z_VxbDA" id="_rCPZQF7cEe2WF84z_VxbDA" label="metadata-aircraft-manufacturer-lookup">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_AIKqI17dEe2WF84z_VxbDA" label="aircraft_reg_code" length="6" talendType="id_String" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_AIKqJF7dEe2WF84z_VxbDA" label="manufacturer_serial_number" length="8" talendType="id_String" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_AIKqJV7dEe2WF84z_VxbDA" label="aircraft_model" length="14" talendType="id_String" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_AIKqJl7dEe2WF84z_VxbDA" label="manufacturer" length="6" talendType="id_String" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
