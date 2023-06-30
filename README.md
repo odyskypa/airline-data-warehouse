@@ -1,5 +1,5 @@
 # Airline Data Warehouse
-Project of Data Warehousing (DW) Course for Master in Data Science Program of Universitat Politècnica de Catalunya (UPC)
+Project of Data Warehousing (DW) Course for the Program `Master in Data Science` of Universitat Politècnica de Catalunya (UPC)
 ***
 * Design and development of a DW 
 * Development of cube queries for KPIs
